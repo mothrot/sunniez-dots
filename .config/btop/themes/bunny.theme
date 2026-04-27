@@ -1,11 +1,11 @@
-# Theme: Rotten
+# Theme: Bunny
 # By: Sunniez
 
 # Main bg
-theme[main_bg]="#161616"
+theme[main_bg]="#FFDEA9"
 
 # Main text color
-theme[main_fg]="#f6fce7"
+theme[main_fg]="#A640A3"
 
 # Title color for boxes
 theme[title]="#ddf5a2"
